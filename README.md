@@ -1,2 +1,2 @@
 # sigma-demo
-demo for gethub
+demo for gethub .
